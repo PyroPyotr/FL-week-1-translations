@@ -4,19 +4,19 @@
 translate french replay_d03s15_b9f43a8f:
 
     # mct "Fresh air! That is what I need!"
-    mct "Fresh air! That is what I need!"
+    mct "De l'air frais! C'est ce dont j'ai besoin!"
 
 # game/code/d03p2/d03s15.rpy:16
 translate french replay_d03s15_8d578057:
 
     # mct "I hear someone is coming..."
-    mct "I hear someone is coming..."
+    mct "J'entends quelqu'un arriver..."
 
 # game/code/d03p2/d03s15.rpy:22
 translate french replay_d03s15_56679f2e:
 
     # mct "I hear some splashes in the water... {w}Is someone in the pool?"
-    mct "I hear some splashes in the water... {w}Is someone in the pool?"
+    mct "J'entends des éclaboussements dans l'eau... {w}Y a-t-il quelqu'un dans la piscine?"
 
 # game/code/d03p2/d03s15.rpy:26
 translate french replay_d03s15_fbe025a8:
@@ -28,37 +28,37 @@ translate french replay_d03s15_fbe025a8:
 translate french replay_d03s15_d36b10e6:
 
     # mct "That is Allison."
-    mct "That is Allison."
+    mct "C'est Allison."
 
 # game/code/d03p2/d03s15.rpy:32
 translate french replay_d03s15_8c8149b9:
 
     # mct "And apparently she is into skinny dipping!"
-    mct "And apparently she is into skinny dipping!"
+    mct "Et apparemment elle aime se baigner à poil!"
 
 # game/code/d03p2/d03s15.rpy:41
 translate french replay_d03s15_ef1bced6:
 
-    # mct "She is talking so someone..."
-    mct "She is talking so someone..."
+    # mct "She is talking to someone..."
+    mct "Elle parle à quelqu'un..."
 
 # game/code/d03p2/d03s15.rpy:45
 translate french replay_d03s15_9fafe0b6:
 
     # mct "Ah! The lesbian girl who was into my dick during this strange Antony's event."
-    mct "Ah! The lesbian girl who was into my dick during this strange Antony's event."
+    mct "Ah! La fille lesbienne qui voulait ma bite durant l'étrange évènement d'Antony."
 
 # game/code/d03p2/d03s15.rpy:46
 translate french replay_d03s15_cc7cdfa7:
 
     # mct "What was her nickname... {w}Vesna?"
-    mct "What was her nickname... {w}Vesna?"
+    mct "Quel est son surnom... {w}Vesna?"
 
 # game/code/d03p2/d03s15.rpy:48
 translate french replay_d03s15_6a3ac709:
 
     # mct "Ah... This girl. What was her nickname... {w}Vesna?"
-    mct "Ah... This girl. What was her nickname... {w}Vesna?"
+    mct "Ah... Cette fille. Quel est son surnom... {w}Vesna?"
 
 # game/code/d03p2/d03s15.rpy:52
 translate french replay_d03s15_e6c44687:
